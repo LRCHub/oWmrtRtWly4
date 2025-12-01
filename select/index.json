@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "人間みたいね",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-01T12:02:55.484302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人間みたいね",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_人間みたいね_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人間みたいね - HUMANLIKE",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_人間みたいね_-_HUMANLIKE_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人間みたいね",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_人間みたいね_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人間みたいね (Acoustic Ver.)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/04_人間みたいね_(Acoustic_Ver.)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人間みたいね",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_人間みたいね_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "人間みたいね (Acoustic ver.)",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_人間みたいね_(Acoustic_ver.)_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "人間みたいね",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_人間みたいね_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "人間みたいね (Acoustic ver.)",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_04_人間みたいね_(Acoustic_ver.)_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "人間みたいね",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_05_人間みたいね_キタニタツヤ.txt"
+    }
+  ]
+}
